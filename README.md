@@ -36,3 +36,8 @@ open index.html  # or just double-click it
  Clouds are rendered as overlapping circles and move horizontally with variable speeds.
 
  The animation loop updates both elements smoothly using requestAnimationFrame.
+
+##  Art Credits
+
+- **Fishing Game Assets (Pixel Art)** by [ansimuz](https://ansimuz.itch.io/)
+  - Source: [OpenGameArt.org](https://opengameart.org/content/fishing-game-assets-pixel-art)
